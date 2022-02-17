@@ -1,5 +1,5 @@
 # Seminar-3
 
-Работа с GitHub
+Работа 
 
 git pull --allow-unrelated-histories origin main - сливает не связанные истории commit
